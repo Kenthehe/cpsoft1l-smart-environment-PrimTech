@@ -1,14 +1,11 @@
 Title: Smart Environment IoT MVP
 
-Problem Statement:
-
+-Problem Statement:
 Many smart environment systems require multiple hardware and software components to work together. Without a structured development workflow, teams may experience inconsistent environments, poor version control, unclear task ownership, and difficulty tracking software defects.
-
 This project establishes a Full-Stack IoT Minimum Viable Product using a structured software development process supported by GitHub and ClickUp.
 
 
-Target Users and Stakeholder Value:
-
+-Target Users and Stakeholder Value:
 The target users are individuals and organizations that require an IoT-based smart environment solution. The project provides value by combining software, hardware, and project-management practices into a structured and maintainable system.
 
 
@@ -22,7 +19,6 @@ Members & Roles:
 - Mofada, Allen Patrick B. - OA/DevOps
 
 Planned Technology Stack:
-
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js
 - Version Control: Git and GitHub
@@ -31,8 +27,7 @@ Planned Technology Stack:
 - Database: MongoDB Atlas
 - Development Environment: Visual Studio Code
 
-Repository Structure
-
+Repository Structure:
 - frontend/ – Frontend application files
 - backend/ – Backend application files
 - embedded/ – IoT and embedded system files
@@ -44,39 +39,28 @@ Repository Structure
 
 
 Contributing Guidelines
-
 Branching:
-
 -All work must be performed on a feature or bugfix branch.
 
 
 Feature branch:
-
 feature/<CLICKUP-key>-<short-description>
 
 
 Bugfix branch:
-
 bugfix/<CLICKUP-key>-<short-description>
 
 
 
 Commit Format
-
 Commits must follow:
-
 <CLICKUP-key> <imperative description>
 
 Example:
-
 SEM-8 Fix application startup error
 
 
-
-
-
 PULL REQUEST:
-
 All changes must:
 
 1. Be submitted through a pull request.
@@ -88,14 +72,6 @@ All changes must:
 
 
 Security:
-
 Passwords, tokens, API keys, connection strings, and real .env files must not be committed.
 
-
-
-
-
 Use .env.example with placeholder values instead.
-
-
-
