@@ -15,11 +15,11 @@ The target users are individuals and organizations that require an IoT-based sma
 Team Members and Roles:
 
 Members & Roles:
-- Buncab, Jhastyne Rei M. 
-- Carreon, Sean Enrique D.
-- Regencia, Kent Johnfrey N.
-- Juan, John Paul R.
-- Mofada, Allen Patrick B.
+Buncab, Jhastyne Rei M. - Product Owner 
+Carreon, Sean Enrique D. - Scrum Master 
+Regencia, Kent Johnfrey N. - Lead Dev (Full Stack)
+Juan, John Paul R. - Lead Dev (IoT/Hardware)
+Mofada, Allen Patrick B. - OA/DevOps
 
 Planned Technology Stack
 
