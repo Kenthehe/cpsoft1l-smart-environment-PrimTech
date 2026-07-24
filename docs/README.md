@@ -1,1 +1,1 @@
-
+This branch is dedicated to creating, organizing, and maintaining the project's documentation. It contains updates to the README, CONTRIBUTING guide, project descriptions, setup instructions, and other supporting documents to ensure that all team members have clear, accurate, and well-structured documentation throughout Sprint 0 and future development. The branch helps keep documentation changes separate from source code, making collaboration, version control, and project maintenance more organized
