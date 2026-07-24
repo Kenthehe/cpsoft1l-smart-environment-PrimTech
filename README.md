@@ -21,7 +21,7 @@ Members & Roles:
 - Juan, John Paul R. - Lead Dev (IoT/Hardware)
 - Mofada, Allen Patrick B. - OA/DevOps
 
-Planned Technology Stack
+Planned Technology Stack:
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js
@@ -96,3 +96,6 @@ Passwords, tokens, API keys, connection strings, and real .env files must not be
 
 
 Use .env.example with placeholder values instead.
+
+
+
