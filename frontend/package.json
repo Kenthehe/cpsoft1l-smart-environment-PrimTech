@@ -1,0 +1,8 @@
+{
+  "name": "smart-environment-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for Smart Environment IoT MVP",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
