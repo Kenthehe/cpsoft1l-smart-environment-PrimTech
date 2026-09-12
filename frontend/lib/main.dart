@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:supabase_flutter/supabase_flutter.dart';
+import 'package:frontend/login_screen/login.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -9,16 +10,13 @@ Future<void> main() async {
     publishableKey: 'sb_publishable_F2c5GlA_qfxXRWTf6pXBXQ_ktWp05Cm',
   );
 
-  runApp(const MyApp());
-}
-
-class MyApp extends StatelessWidget {
-  const MyApp({super.key});
-
-  @override
-  Widget build(BuildContext context) {
-    return MaterialApp(
-      home: Scaffold(body: Center(child: Text('Hello!'))),
+  void main() {
+    runApp(
+      MaterialApp(
+        debugShowCheckedModeBanner: false,
+        initialRoute: '/',
+        routes: {'/login': (context) => LoginPage()},
+      ),
     );
   }
 }
