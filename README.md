@@ -1,4 +1,4 @@
-Title: Smart Environment IoT MVP
+Title: CareHOMED
 
 -Problem Statement:
 Many smart environment systems require multiple hardware and software components to work together. Without a structured development workflow, teams may experience inconsistent environments, poor version control, unclear task ownership, and difficulty tracking software defects.
